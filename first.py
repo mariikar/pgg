@@ -6,4 +6,3 @@ def sude_nebo_liche(cislo):
 
 sude_nebo_liche(5)
 sude_nebo_liche(1000000)
-#w
